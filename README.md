@@ -6,6 +6,8 @@
 - Quick Sort
 - Merge Sort
 
+[Live Link](https://sahilk426.github.io/Sorting-Visualizer/)
+
 ### This is built using HTML, CSS, JavaScript <br/>
 
 <img src="img/img1.png"> <br/>
